@@ -1,4 +1,4 @@
-# cambodian-news-outlet-analysis
+# Cambodian News Outlet Analysis
 
 Utilizing the Scrapy library to scrape all articles in the 'National' news category archive of the Phnom Penh Post.
 
