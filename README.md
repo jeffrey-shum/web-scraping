@@ -4,3 +4,7 @@ Utilizing the Scrapy library to scrape all articles in the 'National' news categ
 
   1. Scraping and collecting the link to each article from each page of the article archive.
   2. Connecting to each of the links to scrape and collect article text, author, date, and time published for each article.
+
+See these directories for the code scripts:
+  /pp_post/pp_post/spiders/
+  
