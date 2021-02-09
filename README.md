@@ -7,6 +7,6 @@ Utilizing the Scrapy library to scrape all articles in the 'National' news categ
 
 See these links to view the spider scripts:
   
-    [Spider to scrape individual article URLs](https://github.com/jeffrey-shum/cambodian-news-outlet-analysis/blob/main/pp_post/pp_post/spiders/archive_pages_scraper.py)
+[Spider to scrape individual article URLs](https://github.com/jeffrey-shum/cambodian-news-outlet-analysis/blob/main/pp_post/pp_post/spiders/archive_pages_scraper.py)
 
-    [Spider to scrape individual article data](https://github.com/jeffrey-shum/cambodian-news-outlet-analysis/blob/main/pp_post/pp_post/spiders/article_scraper.py)
+[Spider to scrape individual article data](https://github.com/jeffrey-shum/cambodian-news-outlet-analysis/blob/main/pp_post/pp_post/spiders/article_scraper.py)
